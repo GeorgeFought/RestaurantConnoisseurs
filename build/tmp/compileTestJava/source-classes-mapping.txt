@@ -1,0 +1,6 @@
+org/wecancodeit/reviews/ReviewsApplicationTests.java
+ org.wecancodeit.reviews.ReviewsApplicationTests
+org/wecancodeit/reviews/JPAWiringTest.java
+ org.wecancodeit.reviews.JPAWiringTest
+org/wecancodeit/reviews/RestaurantStorageTest.java
+ org.wecancodeit.reviews.RestaurantStorageTest
